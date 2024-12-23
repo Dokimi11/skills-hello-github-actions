@@ -6,7 +6,7 @@ _Create and run a GitHub Actions workflow._
 
 </header>
 
-## Finish
+## Finish :penguin:
 
 _Congratulations friend, you've completed this course!_
 
